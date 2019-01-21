@@ -1,0 +1,7 @@
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\PracticeGeeksForGeeks\obj\Debug\NthTermSeries.csprojAssemblyReference.cache
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\PracticeGeeksForGeeks\obj\Debug\NthTermSeries.csproj.CoreCompileInputs.cache
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\PracticeGeeksForGeeks\bin\Debug\PracticeGeeksForGeeks.exe.config
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\PracticeGeeksForGeeks\bin\Debug\PracticeGeeksForGeeks.exe
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\PracticeGeeksForGeeks\bin\Debug\PracticeGeeksForGeeks.pdb
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\PracticeGeeksForGeeks\obj\Debug\PracticeGeeksForGeeks.exe
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\PracticeGeeksForGeeks\obj\Debug\PracticeGeeksForGeeks.pdb

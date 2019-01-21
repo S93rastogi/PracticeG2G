@@ -1,0 +1,7 @@
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\ArmstronNumbers\bin\Debug\ArmstronNumbers.exe.config
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\ArmstronNumbers\bin\Debug\ArmstronNumbers.exe
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\ArmstronNumbers\bin\Debug\ArmstronNumbers.pdb
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\ArmstronNumbers\obj\Debug\ArmstronNumbers.csprojAssemblyReference.cache
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\ArmstronNumbers\obj\Debug\ArmstronNumbers.csproj.CoreCompileInputs.cache
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\ArmstronNumbers\obj\Debug\ArmstronNumbers.exe
+C:\Users\shub_ras\G2GPractice\PracticeGeeksForGeeks\ArmstronNumbers\obj\Debug\ArmstronNumbers.pdb
